@@ -5,7 +5,7 @@
 
 |     Files    |              Content                   |                       Link                             |
 |  ----------  |          :------------:                |                      ------:                           |
-| class-01.md  |                                        |                                                        |
+| class-01.md  | SMACSS and Responsive Web Design       |                                                        |
 | class-02.md  |                                        |                                                        |
 | class-03.md  |                                        |                                                        |               
 | class-04.md  |                                        |                                                        |
