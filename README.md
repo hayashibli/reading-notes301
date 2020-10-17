@@ -5,7 +5,7 @@
 
 |     Files    |              Content                   |                       Link                             |
 |  ----------  |          :------------:                |                      ------:                           |
-| class-01.md  | SMACSS and Responsive Web Design       |                                                        |
+| class-01.md  | SMACSS and Responsive Web Design       |https://hayashibli.github.io/reading-notes301/class-01  |
 | class-02.md  |                                        |                                                        |
 | class-03.md  |                                        |                                                        |               
 | class-04.md  |                                        |                                                        |
