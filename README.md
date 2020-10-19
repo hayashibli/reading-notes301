@@ -5,8 +5,8 @@
 
 |     Files    |              Content                   |                       Link                             |
 |  ----------  |          :------------:                |                      ------:                           |
-| class-01.md  | SMACSS and Responsive Web Design       |https://hayashibli.github.io/reading-notes301/class-01  |
-| class-02.md  | jQuery, Events, and The DOM            |https://hayashibli.github.io/reading-notes301/class-02  |
+| class-01.md  | SMACSS and Responsive Web Design       |                                                        |
+| class-02.md  |                                        |                                                        |
 | class-03.md  |                                        |                                                        |               
 | class-04.md  |                                        |                                                        |
 | class-05.md  |                                        |                                                        |
