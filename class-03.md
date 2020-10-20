@@ -14,7 +14,7 @@ If you intend you use mustache with Node and Express, you can use mustache-expre
 4- *flex-flow* property : This is a shorthand for the flex-direction and flex-wrap properties, which together define the flex container’s main and cross axes. The default value is row nowrap.
 
 **Properties for the Children (flex items)**
-![image!](https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg)
+![image!](https://css-tricks.com/wp-content/uploads/2018/10/02-items.svg)
 1- *order* property : controls the order in which they appear in the flex container.
 2- *flex-grow* property : the ability for a flex item to grow if necessary. It accepts a unitless value that serves as a proportion.
 3- *flex-shrink* property : the ability for a flex item to shrink if necessary.
