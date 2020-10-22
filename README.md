@@ -9,7 +9,7 @@
 | class-02.md  | jQuery, Events, and The DOM            |https://hayashibli.github.io/reading-notes301/class-02  |
 | class-03.md  | Flexbox and Templating                 |https://hayashibli.github.io/reading-notes301/class-03  |               
 | class-04.md  |                                        |                                                        |
-| class-05.md  |                                        |                                                        |
+| class-05.md  | Heroku Deployment                      |https://hayashibli.github.io/reading-notes301/class-05  |
 | class-06.md  |                                        |                                                        |
 | class-07.md  |                                        |                                                        |
 | class-08.md  |                                        |                                                        |
